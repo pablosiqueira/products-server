@@ -1,0 +1,14 @@
+{
+  "name": "products-server",
+  "version": "1.0.0",
+  "description": "Products REST API ",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "author": "Pablo Siqueira",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}

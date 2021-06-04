@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name" : "Brooks GTS Running Shoes",
+            "brand" : "Brooks",
+            "category" : "shoes",
+            "image_url" : "https://raw.githubusercontent.com/pablosiqueira/data/main/img/products/shoes2.png",
+            "prices":{
+                "full": 59.99,
+                "current" : 49.99
+            },
+            "color":"White, red and blue",
+            "sizes" : {
+                "38" : {"quantity":12},
+                "39" : {"quantity":10},
+                "40" : {"quantity":15},
+                "41" : {"quantity":7},
+                "42" : {"quantity":10},
+                "43" : {"quantity":5},
+                "44" : {"quantity":3}
+            }
+        },
+        {
+            "id": 2,
+            "name" : "Adidas Real Madrid Home Jersey",
+            "Brand" : "Adidas",
+            "category" : "shirts",
+            "image_url" : "https://raw.githubusercontent.com/pablosiqueira/data/main/img/products/real.png",
+            "prices":{
+                "full": 79.99,
+                "current" : 59.99
+            },
+            "color":"White and blue",
+            "sizes" : {
+                "S" : {"quantity":12},
+                "M" : {"quantity":10},
+                "L" : {"quantity":15},
+                "XL" : {"quantity":7},
+                "XXL" : {"quantity":10}
+            }
+        },
+        {
+            "id": 3,
+            "name" : "Nike Auto Lace Shoes",
+            "Brand" : "Nike",
+            "category" : "shoes",
+            "image_url" : "https://raw.githubusercontent.com/pablosiqueira/data/main/img/products/nike_auto_lace.png",
+            "prices":{
+                "full": 299.99,
+                "current" : 279.99
+            },
+            "color":"Gray, white and blue",
+            "sizes" : {
+                "36" : {"quantity":12},
+                "37" : {"quantity":12},
+                "38" : {"quantity":12},
+                "39" : {"quantity":10},
+                "40" : {"quantity":15},
+                "41" : {"quantity":7},
+                "42" : {"quantity":10},
+                "43" : {"quantity":5},
+                "44" : {"quantity":3}
+            }
+        }
+
+    ]
+}
