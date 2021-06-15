@@ -3,6 +3,7 @@
         {
             "id": 1,
             "name" : "Brooks GTS Running Shoes",
+            "gender" : "Male",
             "brand" : "Brooks",
             "category" : "shoes",
             "image_url" : "https://raw.githubusercontent.com/pablosiqueira/data/main/img/products/shoes2.png",
@@ -24,6 +25,7 @@
         {
             "id": 2,
             "name" : "Adidas Real Madrid Home Jersey",
+            "gender" : "Male",
             "Brand" : "Adidas",
             "category" : "shirts",
             "image_url" : "https://raw.githubusercontent.com/pablosiqueira/data/main/img/products/real.png",
@@ -43,6 +45,7 @@
         {
             "id": 3,
             "name" : "Nike Auto Lace Shoes",
+            "gender" : "Male",
             "Brand" : "Nike",
             "category" : "shoes",
             "image_url" : "https://raw.githubusercontent.com/pablosiqueira/data/main/img/products/nike_auto_lace.png",
@@ -61,6 +64,90 @@
                 "42" : {"quantity":10},
                 "43" : {"quantity":5},
                 "44" : {"quantity":3}
+            }
+        },
+        {
+            "id": 4,
+            "name" : "Gemyse Snow Jacket",
+            "gender" : "Unisex",
+            "Brand" : "Gemyse",
+            "category" : "jackets",
+            "image_url" : "https://raw.githubusercontent.com/pablosiqueira/data/main/img/products/jacket2.png",
+            "prices":{
+                "full": 69.99,
+                "current" : 65.99
+            },
+            "color":"White and blue",
+            "sizes" : {
+                "S" : {"quantity":25},
+                "M" : {"quantity":18},
+                "L" : {"quantity":20},
+                "XL" : {"quantity":7},
+                "XXL" : {"quantity":5},
+                "3XL" : {"quantity":3}
+            }
+        },
+        {
+            "id": 5,
+            "name" : "Nike Air Jordan 92 Shoes",
+            "gender" : "Male",
+            "Brand" : "Nike",
+            "category" : "shoes",
+            "image_url" : "https://raw.githubusercontent.com/pablosiqueira/data/main/img/products/jordan.png",
+            "prices":{
+                "full": 189.99,
+                "current" : 179.99
+            },
+            "color":"Black, gray and yellow",
+            "sizes" : {
+                "36" : {"quantity":12},
+                "37" : {"quantity":12},
+                "38" : {"quantity":12},
+                "39" : {"quantity":10},
+                "40" : {"quantity":15},
+                "41" : {"quantity":7},
+                "42" : {"quantity":10},
+                "43" : {"quantity":5},
+                "44" : {"quantity":3},
+                "45" : {"quantity":3},
+                "46" : {"quantity":3}
+            }
+        },
+        {
+            "id": 6,
+            "name" : "New Era New York Yankees",
+            "gender" : "Unisex",
+            "brand" : "New Era",
+            "category" : "acessories",
+            "image_url" : "https://raw.githubusercontent.com/pablosiqueira/data/main/img/products/cap_ny.png",
+            "prices":{
+                "full": 22.99,
+                "current" : 18.99
+            },
+            "color":"Dark blue",
+            "sizes" : {
+                "U" : {"quantity":32}
+            }
+        },
+        {
+            "id": 7,
+            "name" : "Nike Sportswear Club Shorts",
+            "gender" : "Male",
+            "brand" : "Nike",
+            "category" : "jackets",
+            "image_url" : "https://raw.githubusercontent.com/pablosiqueira/data/main/img/products/jacket2.png",
+            "prices":{
+                "full": 69.99,
+                "current" : 65.99
+            },
+            "color":"White and blue",
+            "sizes" : {
+                "S" : {"quantity":25},
+                "M" : {"quantity":18},
+                "L" : {"quantity":20},
+                "XL" : {"quantity":7},
+                "XXL" : {"quantity":5},
+                "3XL" : {"quantity":3}
             }
         }
 
