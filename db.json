@@ -135,7 +135,7 @@
             "gender" : "Male",
             "brand" : "Nike",
             "category" : "jackets",
-            "image_url" : "https://raw.githubusercontent.com/pablosiqueira/data/main/img/products/jacket2.png",
+            "image_url" : "https://raw.githubusercontent.com/pablosiqueira/data/main/img/products/shorts_2.png",
             "prices":{
                 "full": 69.99,
                 "current" : 65.99
